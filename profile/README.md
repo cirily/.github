@@ -1,4 +1,4 @@
 # Welcome to Cirily.
-#### Cirily is Based on Cutefish, Powered by Ubuntu, Developer for Community.
-#### It is a new generation of Linux operating system that is simple, easy to use and beautiful. Hope you like it.  
-`——Cirily Team`
+#### Cirily ———— Based on Cutefish, Powered by Ubuntu, Developer for Community.
+#### Cirily is a new generation of Linux OS. It's simple, easy to use and beautiful. Hope you like it.  
+`—— Cirily Team`
